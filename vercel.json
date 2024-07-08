@@ -1,4 +1,4 @@
 {
-    "buildCommand": "jupyter-book build .",
+    "buildCommand": "npm run build",
     "outputDirectory": "_build/html"
 }
