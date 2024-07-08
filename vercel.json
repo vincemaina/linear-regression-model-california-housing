@@ -1,0 +1,4 @@
+{
+    "buildCommand": "pip install -U jupyter-book && jupyter-book build .",
+    "outputDirectory": "_build/html"
+}
