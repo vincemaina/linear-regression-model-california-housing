@@ -2,7 +2,7 @@
 
 The california housing dataset is famous, and often used in beginner machine learning projects to practise linear regression.
 
-It is a good dataset for me as it strikes a good balance between being managable for a beginner, but also requiring some preprocessing and cleaning of the data.
+It is a great dataset as it strikes a good balance between being managable for a beginner, but also requiring some preprocessing and cleaning of the data.
 
 ## First things first...
 
