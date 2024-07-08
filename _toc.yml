@@ -1,0 +1,6 @@
+# In _toc.yml
+format: jb-book
+root: 1-introduction
+chapters:
+- file: 2-about-the-dataset
+- file: 3-feature-evaluation
